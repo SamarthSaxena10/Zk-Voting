@@ -1,12 +1,18 @@
-# Foundry
-cache/
-out/
-broadcast/
+#Noir
+proofs/
+Verifier.toml
 
-# JS
-node_modules/
-
-# Circuit file
-crs/
-
-.env
+# ZoKrates default files
+out
+out.ztf
+abi.json
+proof.json
+proving.key
+verification.key
+verifier.sol
+proof.json
+universal_setup.dat
+witness
+# snarkjs artifacts
+*.wtns
+*.r1cs
