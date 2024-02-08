@@ -115,3 +115,7 @@ The repo is based on [ZK HACK III Workshop - Noir](https://www.youtube.com/watch
    ```sh
    $ zokrates verify
    ```
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
